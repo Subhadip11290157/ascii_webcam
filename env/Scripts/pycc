@@ -1,0 +1,3 @@
+#!c:\users\royal\onedrive\desktop\coding\ascii_webcam\env\scripts\python.exe
+from numba.pycc import main
+main()
